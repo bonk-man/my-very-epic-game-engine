@@ -1,0 +1,10 @@
+﻿  gl_render.cpp
+C:\BAMSPORTS\BAMSPORTS\BAMSPORTS\gl_render.hpp(12,16): warning C4091: 'typedef ': ignored on left of 'open_gl_triangle_group' when no variable is declared
+  (compiling source file 'gl_render.cpp')
+  
+  main.cpp
+C:\BAMSPORTS\BAMSPORTS\BAMSPORTS\gl_render.hpp(12,16): warning C4091: 'typedef ': ignored on left of 'open_gl_triangle_group' when no variable is declared
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  BAMSPORTS.vcxproj -> C:\BAMSPORTS\BAMSPORTS\x64\Debug\BAMSPORTS.exe
